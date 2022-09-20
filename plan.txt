@@ -1,0 +1,8 @@
+1. get a random number in the guess range and make it a variable
+(send some basic game instructions in console)
+
+2. let the user guess for the number and contain it in a while loop counting to 10
+
+3. when user succeeds guessing the number; send a congratulations message and exit the program
+
+4. if the user exits the loop by guessing 10 times; send a you failed message
